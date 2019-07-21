@@ -1,0 +1,21 @@
+IP_AND_PORT_LIST
+{
+	IP_PORT
+	{
+	    NAME Broker 1
+		IP localhost
+		PORT 4321	
+	}
+	IP_PORT
+	{
+	    NAME Broker 2
+		IP localhost
+		PORT 4322
+	}
+	IP_PORT
+	{
+	    NAME Broker 3
+		IP localhost
+		PORT 4323
+	}
+}
